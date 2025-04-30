@@ -1,1 +1,18 @@
-
+**BUILD A CHROME EXTENSION FOR PRODUCTIVITY MANAGEMENT**
+**COMPANY**: **CODTECH IT SOLUTIONS**
+**NAME: DESHETTI VINODINI**
+**INTERN ID: CT08WN182**
+**DOMAIN: MERN STACK WEB DEVELOPMENT**
+**DURATION: 8 WEEKS**
+**MENTOR: Neela Santhosh Kumar**
+**TASK DESCRIPTION**
+The Productivity Manager Chrome Extension is a feature-rich browser-based tool designed to help users take control of their digital habits and boost their daily productivity. This project was developed as part of an internship program under the domain of Web Development using the MERN stack, with the primary focus on front-end interaction using JavaScript, HTML, and Chrome’s Extensions API. The main objective of this project is to track the time a user spends on various websites throughout their browsing sessions, providing actionable insights and daily usage statistics. The extension actively monitors tab updates, activations, and window focus changes to accurately calculate the amount of time spent on each unique website. This information is logged and stored temporarily within the extension’s runtime memory and displayed in a clean tabular report format accessible via the extension’s popup interface. The extension consists of multiple components, including a background script that handles time tracking logic, a popup interface that offers quick access to the report, and a separate report view for users to visualize site usage. In its current implementation, the extension uses local storage and runtime messaging to manage the data flow between scripts. One of the key highlights of the project is the use of Chrome's declarative permissions and background service worker model (Manifest V3), which ensures efficient event handling and battery-friendly background operations. The UI is minimalistic and responsive, built using semantic HTML and inline CSS, focusing on usability and performance. The extension helps users identify where they are spending excessive time online and encourages better digital discipline by offering transparency. Additionally, it lays the foundation for future features like blocking or limiting access to distracting sites, syncing usage across devices using cloud integration, and providing advanced analytics using a MERN-based backend. Throughout the development of this project, industry practices like code modularity, real-time debugging using Chrome DevTools, and Git version control were followed. The project was structured to reflect real-world production environments, maintaining clear file separations and logical roles for each script. This not only enhances maintainability but also makes it easy for future developers to understand and extend the project. The project reflects a deep understanding of how browser extensions interact with user environments, demonstrates proficiency in asynchronous programming using promises and event listeners, and showcases the ability to integrate multiple technologies into a single cohesive application. As a result, this Productivity Manager Chrome Extension is not just a simple tracker but a meaningful step toward responsible and mindful browsing. It is especially beneficial for students, professionals, and remote workers who want to stay focused and track their digital productivity efficiently without installing heavy external software.
+**TECHNOLOGIES USED**
+1.HTML5 – For structuring the popup and report interfaces
+2.CSS3 – For basic inline styling and layout (can extend with style.css)
+3.JavaScript (ES6+) – Core logic for time tracking, tab management, and inter-script communication
+4.Chrome Extensions API – To interact with tabs, windows, runtime, and background events
+5.Manifest V3 – Latest Chrome extension standard using service workers
+6.Browser Events – chrome.tabs, chrome.windows, chrome.runtime listeners
+7.Git – Version control during development
+8.GitHub – Hosting and sharing the project repository
