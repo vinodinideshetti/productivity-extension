@@ -16,3 +16,12 @@ The Productivity Manager Chrome Extension is a feature-rich browser-based tool d
 6.Browser Events – chrome.tabs, chrome.windows, chrome.runtime listeners
 7.Git – Version control during development
 8.GitHub – Hosting and sharing the project repository
+
+**screenshots**
+> **Popup View (when clicking the extension icon)**
+
+![Popup View](popup.png)
+
+> **Website Usage Report**
+
+![Usage Report](report.png)
